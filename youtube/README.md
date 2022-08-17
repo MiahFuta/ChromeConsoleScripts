@@ -1,4 +1,4 @@
-# Usage Instructions
+# Usage Instructions for 'clear-watchlist.js'
 
 1. On Desktop Open: https://www.youtube.com/playlist?list=WL
 2. Press the F12 Key to Enter the Chrome Developers Console.
